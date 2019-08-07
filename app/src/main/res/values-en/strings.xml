@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recycling Facts</string>
+    <string name="recycling_activity_title">Recycling Facts</string>
+    <string name="give_btn">Give me what you have</string>
+    <string name="fact_text">Thousands of animals are dying because of the plastic bags that looks like jellyfish</string>
+    <string name="btn_rest">Button pressed</string>
+    <string name="log_app">App started</string>
+    <string name="fact_1">95% of the worlds information is still stored on paper, most of it is not used again</string>
+    <string name="fact_2">Recycling plastic bottle provides enough energy to light the lamp capacity of 60 watts for 6 hours</string>
+    <string name="fact_3">Thousands of marine creatures die due to swallowing plastic bags that resemble jellyfish</string>
+    <string name="fact_4">Each year, Americans throw bottles, enough to reach the moon and return to it 20 times</string>
+    <string name="fact_5">Recycling a ton of plastic can save about 2,000 gallons of gasoline</string>
+    <string name="fact_6">The beginning of 2015, all New Yorkers have to recycle electronic devices or face a fine of $100</string>
+    <string name="fact_7">Recycling aluminum tray can save enough energy to run a TV for two hours</string>
+    <string name="fact_8">Recycling a ton of paper maintains 17 trees</string>
+    <string name="fact_9">Recycling aluminum can returns it to the store shelf within 60 days</string>
+    <string name="fact_10">Start recycling by reducing the use of plastic</string>
+
+</resources>
